@@ -6,5 +6,5 @@ group(:test) do
   gem 'rspec'
   gem 'selenium-webdriver'
   gem 'chromedriver-helper', '~> 0.0.8'
-  
+  gem 'poltergeist'
 end
