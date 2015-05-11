@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/NickDevetak/cucumber-tests.svg?branch=master)](https://travis-ci.org/NickDevetak/cucumber-tests)
+
 = Standalone Cucumber Test Suite
 1
 
